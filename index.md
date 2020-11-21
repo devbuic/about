@@ -1,5 +1,5 @@
 ## Developers Society
-#### As a team, we aim to develop our community by providing valuable knowledge, experience and guidance in modern technologies related to software development. We take a creative approach to learning by working as a full-scale team on industry-based projects. This platform will also help in organizing fun events and representing Bahria University in collaborative events hosted by other universities.
+#### As a team, we aim to develop our community by providing valuable knowledge, experience and guidance in modern technologies related to software development. We take a creative learning approach by working as a full-scale team on industry-based projects. This platform shall help in organizing fun activities at Bahria university and also represent our university at events hosted by other universities.
 
 <strong>📍  Bahria University, Islamabad Campus</strong> <br>
 <strong>✉️ Email: [dev.buic@gmail.com](mailto:dev.buic@gmail.com)</strong> <br>
