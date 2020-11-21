@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Developers Society
+#### As a team, we aim to develop our community by providing valuable knowledge, experience and guidance in modern technologies related to software development. We take a creative approach to learning by working as a full-scale team on industry-based projects. This platform will also help in organizing fun events and representing Bahria University in collaborative events hosted by other universities.
 
-You can use the [editor on GitHub](https://github.com/devbuic/about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<strong>📍  Bahria University, Islamabad Campus</strong> <br>
+<strong>✉️ Email: [dev.buic@gmail.com](mailto:dev.buic@gmail.com)</strong> <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devbuic/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Follow Dev Society BUIC
+[<img align="left" width=22px src="https://simpleicons.org/icons/facebook.svg">&nbsp; Get notified about events on Facebook ](https://www.facebook.com/devbuic) <br>
+[<img align="left" width=22px src="https://simpleicons.org/icons/linkedin.svg">&nbsp; Stay in touch with your work domain  ](https://www.linkedin.com/company/devbuic) <br>
+[<img align="left" width=22px src="https://simpleicons.org/icons/dev-dot-to.svg">&nbsp; Follow our detailed guides on Dev.to ](https://dev.to/devbuic) <br>
