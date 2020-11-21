@@ -3,6 +3,7 @@
 
 <strong>📍  Bahria University, Islamabad Campus</strong> <br>
 <strong>✉️ Email: [dev.buic@gmail.com](mailto:dev.buic@gmail.com)</strong> <br>
+<br>
 
 ## Follow Dev Society BUIC
 [<img align="left" width=22px src="https://simpleicons.org/icons/facebook.svg">&nbsp; Get notified about events on Facebook ](https://www.facebook.com/devbuic) <br>
